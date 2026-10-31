@@ -1,0 +1,17 @@
+# Local builds, tools, device logs and secrets
+build/
+.build/
+toolchain/
+logs/
+flash-logs/
+*.log
+*.bin
+*.elf
+*.map
+*.o
+*.a
+.DS_Store
+.env
+.env.*
+*.pem
+*.key

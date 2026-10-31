@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-31",
+  "current_gpio": 23,
+  "active_low": false,
+  "input_mode": "INPUT_PULLDOWN",
+  "debounce_ms": 35,
+  "core_version": "3.3.2",
+  "source_documents_consistent": true,
+  "production_executable_code_identical_to_local_source": true,
+  "production_release_comments_updated_only": true,
+  "production_original_sha256": "4f35bd1841efc47f5d63f5f8e5aa36dbe33b2d683f31b603634fa6d0eaf826ce",
+  "production_release_sha256": "23829e3a50a99b64f17c44a21e5eb17fc07bc037c1861ea1caf95e49faef3ed9",
+  "diagnostic_source_sha256": "91a4555b49143dc46384e547e615b159063c8a325a3d7571928433f2945e2610",
+  "diagnostic_executable_code_diff_is_only_serial_instrumentation": true,
+  "device_identifiers_and_original_logs_included": false,
+  "board_or_phone_accessed_during_packaging": false,
+  "source_files": [
+    {
+      "path": "firmware/deng_ni_lai_button/deng_ni_lai_button.ino",
+      "bytes": 6457,
+      "sha256": "23829e3a50a99b64f17c44a21e5eb17fc07bc037c1861ea1caf95e49faef3ed9"
+    },
+    {
+      "path": "diagnostics/button_d23_diagnostic/button_d23_diagnostic.ino",
+      "bytes": 8601,
+      "sha256": "91a4555b49143dc46384e547e615b159063c8a325a3d7571928433f2945e2610"
+    }
+  ],
+  "physical_validation": {
+    "variant": "GPIO23 diagnostic",
+    "gpio_raw_levels_observed": [
+      0,
+      1
+    ],
+    "subscribed_press_notifications_observed": 50,
+    "user_confirmed_overlay_on_redmi_douyin": true,
+    "all_apps_or_rotations_independently_verified": false
+  },
+  "production_release_compile": {
+    "exit_code": 0,
+    "arduino_esp32_core": "3.3.2",
+    "fqbn": "esp32:esp32:esp32:UploadSpeed=115200,FlashFreq=40,FlashMode=dio,FlashSize=4M,PartitionScheme=default,PSRAM=disabled",
+    "program_storage_bytes": 1085163,
+    "dynamic_memory_bytes": 39400,
+    "application_bin_bytes": 1085312,
+    "application_bin_sha256": "ed3e6f6306be5357e32515396e22962356cedeaffdced0f94f70ac9c382327b8",
+    "uploaded": false,
+    "binary_included": false
+  }
+}

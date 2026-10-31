@@ -1,0 +1,83 @@
+{
+  "format_version": 1,
+  "date": "2026-10-31",
+  "part": "hardware-web-flat",
+  "self_included": false,
+  "files": [
+    {
+      "path": "BOM.md",
+      "size": 3276,
+      "sha256": "b0805b7e3b0b151fefeb50f443ac053a859189cb27dd9241ada757409d72817b"
+    },
+    {
+      "path": "BUILD.md",
+      "size": 3004,
+      "sha256": "f8f259e973c763ac104835d40802434780ed5f7b98dc2a0b663b4bb3b7784164"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "size": 1429,
+      "sha256": "34c4974ead4c81ecf4fd1f623586e0716a8d36020bd40a635c8e32fa8f34bf57"
+    },
+    {
+      "path": "README.md",
+      "size": 3070,
+      "sha256": "cc27a3da9bd6f76ccfe2e251ac58d1651e31ac3f77a0c0ebe705de3538507bd1"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "size": 2760,
+      "sha256": "f68c4abb72d72e7464a4320218a8f9fe10c648ae87c866d99ae82ebaba806cc1"
+    },
+    {
+      "path": "WIRING.md",
+      "size": 1775,
+      "sha256": "ae868aa11368af9f38b542c4c50d83de79b480b0fd9cbf611b6a38e66ac0005d"
+    },
+    {
+      "path": "button_d23_diagnostic.ino",
+      "size": 8601,
+      "sha256": "91a4555b49143dc46384e547e615b159063c8a325a3d7571928433f2945e2610"
+    },
+    {
+      "path": "deng_ni_lai_button.ino",
+      "size": 6457,
+      "sha256": "23829e3a50a99b64f17c44a21e5eb17fc07bc037c1861ea1caf95e49faef3ed9"
+    },
+    {
+      "path": "diagnostics-README.md",
+      "size": 639,
+      "sha256": "ecfd1699bd3a2ad334685a3f615d28709165b9ec1b59cfca9f269cd127c1b709"
+    },
+    {
+      "path": "gitignore-template.txt",
+      "size": 157,
+      "sha256": "9aff8b3fd891016db581fa38114f50a175b5e9f68f774f15cc74aa499bb97e4f"
+    },
+    {
+      "path": "hardware-source-audit.json",
+      "size": 1967,
+      "sha256": "5dbb8a7d78e06a95462d3c7fc7482d807fd1877167233a293754fb10eb688d65"
+    },
+    {
+      "path": "hardware-source-manifest.json",
+      "size": 1840,
+      "sha256": "c804194851b805f53847a1fadb0cc7215f65482544884d018e20c4b1be9f409c"
+    },
+    {
+      "path": "hardware-source-package.json",
+      "size": 2150,
+      "sha256": "93cfd1287507d39c624a986be6a463f5729448da53069992b84bc862825c3479"
+    },
+    {
+      "path": "hardware-source.zip",
+      "size": 17781,
+      "sha256": "81f02d6479a99ce8925c9cfeb115db926fd627730ae413f1843555859a1795af"
+    },
+    {
+      "path": "完整备料清单.txt",
+      "size": 3215,
+      "sha256": "263db90c54cac1062802b859439763698d42f4be80bce9174173b457c580ed2e"
+    }
+  ]
+}

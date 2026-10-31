@@ -1,0 +1,68 @@
+{
+  "path": "hardware-source.zip",
+  "size": 17781,
+  "sha256": "81f02d6479a99ce8925c9cfeb115db926fd627730ae413f1843555859a1795af",
+  "file_count": 12,
+  "files": [
+    {
+      "path": "hardware/.gitignore",
+      "size": 157,
+      "sha256": "9aff8b3fd891016db581fa38114f50a175b5e9f68f774f15cc74aa499bb97e4f"
+    },
+    {
+      "path": "hardware/README.md",
+      "size": 2298,
+      "sha256": "5742ab79d164956310b5c6d88239fd22da1c0e58b26e2bbd1f62a728070e62f9"
+    },
+    {
+      "path": "hardware/diagnostics/README.md",
+      "size": 577,
+      "sha256": "f37ab47335e689248f84dc6061e293eceb8e1101b913a2db17616bcf372df31b"
+    },
+    {
+      "path": "hardware/diagnostics/button_d23_diagnostic/button_d23_diagnostic.ino",
+      "size": 8601,
+      "sha256": "91a4555b49143dc46384e547e615b159063c8a325a3d7571928433f2945e2610"
+    },
+    {
+      "path": "hardware/docs/BOM.md",
+      "size": 3276,
+      "sha256": "b0805b7e3b0b151fefeb50f443ac053a859189cb27dd9241ada757409d72817b"
+    },
+    {
+      "path": "hardware/docs/BUILD.md",
+      "size": 2643,
+      "sha256": "bc5c5b12ecd6b8a67ccefc9ced19aedd44754e906e0f676d5b5816c8030de2ee"
+    },
+    {
+      "path": "hardware/docs/PROTOCOL.md",
+      "size": 1429,
+      "sha256": "34c4974ead4c81ecf4fd1f623586e0716a8d36020bd40a635c8e32fa8f34bf57"
+    },
+    {
+      "path": "hardware/docs/VERIFICATION.md",
+      "size": 2490,
+      "sha256": "d245a63cacb4168be7890ba5d8f99af0b3e21c7694e02c1a1932a057c750a226"
+    },
+    {
+      "path": "hardware/docs/WIRING.md",
+      "size": 1775,
+      "sha256": "ae868aa11368af9f38b542c4c50d83de79b480b0fd9cbf611b6a38e66ac0005d"
+    },
+    {
+      "path": "hardware/firmware/deng_ni_lai_button/deng_ni_lai_button.ino",
+      "size": 6457,
+      "sha256": "23829e3a50a99b64f17c44a21e5eb17fc07bc037c1861ea1caf95e49faef3ed9"
+    },
+    {
+      "path": "hardware/manifest.json",
+      "size": 1840,
+      "sha256": "c804194851b805f53847a1fadb0cc7215f65482544884d018e20c4b1be9f409c"
+    },
+    {
+      "path": "hardware/verification/source-audit.json",
+      "size": 1967,
+      "sha256": "5dbb8a7d78e06a95462d3c7fc7482d807fd1877167233a293754fb10eb688d65"
+    }
+  ]
+}
